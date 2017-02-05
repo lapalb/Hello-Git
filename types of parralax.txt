@@ -1,0 +1,4 @@
+There are three type of parallax
+1-> Horizontal parallax
+2-> Vertical parallax
+3-> Dive-in
