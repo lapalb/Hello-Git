@@ -1,0 +1,19 @@
+Selection problem: Among given n number find Kth largest
+problem taxonomy : undecidable and decidable(Intractable and tractable) Among decidable we can have decision, counting and optimization problem
+Knapsack is optimisation problem. N object and bag maximum capcity is maximize  profit
+6 step : define design analyse code test maintain
+Measure difficulty: Np complete, undecidable 	
+Measure goodness: Time and space complexity
+Desinition and algorithm and its characteristics(input, output, terminate, effective definitness(unambiguos instuction ))
+Expressing algoritm using english or pseudocode or any programming language
+Everyone can have their own pseudocode so we use standard LATEX(similar to matlab i think)
+Robot tour oroblem is optimisation problem where we try to reduce shortest cycle tour around given point(Nearest neighbour heuristic algorithm)
+Algoritm paradigm is broad classification of different approach to solve problem.
+1 Divide and conquer(in divide size of subproblem is reduced by factor whereas in decrease it reduce by constant  decrease=insertion and  toplogical sort Binary tree traversal, computing fibonacci number by recursion warshall)
+ in transform we change the representation of data
+2 Greedy
+3 Dynamic
+4 Branch and bound
+5 Brute force
+6 Backtracking
+7 Approximation and randomized algo
