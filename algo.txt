@@ -1,8 +1,8 @@
 Selection problem: Among given n number find Kth largest
-problem taxonomy : undecidable and decidable(Intractable and tractable) Among decidable we can have decision, counting and optimization problem
+Problem taxonomy : undecidable and decidable(Intractable and tractable) Among decidable we can have decision, counting and optimization problem
 Knapsack is optimisation problem. N object and bag maximum capcity is maximize  profit
 6 step : define design analyse code test maintain
-Measure difficulty: Np complete, undecidable 	
+Measure difficulty: NP complete, undecidable 	
 Measure goodness: Time and space complexity
 Desinition and algorithm and its characteristics(input, output, terminate, effective definitness(unambiguos instuction ))
 Expressing algoritm using english or pseudocode or any programming language
@@ -18,4 +18,9 @@ Algoritm paradigm is broad classification of different approach to solve problem
 6 Backtracking
 7 Approximation and randomized algo
 Algorithm which we are studying is sequential algorithm and not PRAM
-Sometimes we do AMmortised analyis where one step is exceptionally costly while other are not
+Sometimes we do ammortised analyis where one step is exceptionally costly while other are not
+In randomised algo, some of the decision are made depending upon output of randomiser
+There are two type:
+1-> Las vegas
+2-> Monte Carlo(output is diffrent for same input ) 
+
