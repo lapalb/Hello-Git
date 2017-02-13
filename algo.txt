@@ -1,8 +1,11 @@
-Selection problem: Among given n number find Kth largest
+Selection problem: Among given n number find Kth largest(Brute force n^2)
+Knapsack and travelling salesman is optimisation problem. N object and bag maximum capcity is maximize  profit | o(n^2*2^n) o(2^n/2)
+Sorting problem via brute(bubble,selction) decANDC(insertion) and DANDC(merge and quick)
+Defective coin problem(divide and conquer)
 Problem taxonomy : undecidable and decidable(Intractable and tractable) Among decidable we can have decision, counting and optimization problem
-Knapsack is optimisation problem. N object and bag maximum capcity is maximize  profit
+
 6 step : define design analyse code test maintain
-Measure difficulty: NP complete, undecidable 	
+Measure difficulty: NP complete, undecidable, P and NP, NP hard 	
 Measure goodness: Time and space complexity
 Desinition and algorithm and its characteristics(input, output, terminate, effective definitness(unambiguos instuction ))
 Expressing algoritm using english or pseudocode or any programming language
