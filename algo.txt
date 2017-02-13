@@ -17,3 +17,5 @@ Algoritm paradigm is broad classification of different approach to solve problem
 5 Brute force
 6 Backtracking
 7 Approximation and randomized algo
+Algorithm which we are studying is sequential algorithm and not PRAM
+Sometimes we do AMmortised analyis where one step is exceptionally costly while other are not
