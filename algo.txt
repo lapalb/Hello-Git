@@ -2,6 +2,11 @@ Selection problem: Among given n number find Kth largest(Brute force n^2)
 Knapsack and travelling salesman is optimisation problem. N object and bag maximum capcity is maximize  profit | o(n^2*2^n) o(2^n/2)
 Sorting problem via brute(bubble,selction) decANDC(insertion) and DANDC(merge and quick)
 Defective coin problem(divide and conquer)
+Chess tiling problem is about a chess board which is of dimension 2^k * 2^k with one square not to be tiled. In short 2^2k -1 square to be tiled with triominoes.
+Divide it into 4 square. One square will have defective. For other three makre them defective by placing triominoes at center
+The convex hull of set of point is is smallest convex polygon containing all the point. In convex hull problem our aim is to obtain the vertices of hull.
+How to solve -> Join all the extreme points(n^4 complexity). We develop algorithm with n*lg(n) complexity.
+In grahamscan we solve it in nlog(n) time as we check obtuse angles(left and right turn)
 Problem taxonomy : undecidable and decidable(Intractable and tractable) Among decidable we can have decision, counting and optimization problem
 
 6 step : define design analyse code test maintain
